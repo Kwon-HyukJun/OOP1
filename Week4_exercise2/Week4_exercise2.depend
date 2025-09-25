@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1758788949 source:c:\week4_exercise2\math.cpp
+
+1758789036 source:c:\week4_exercise2\main.cpp
+	<iostream>
+	"math.h"
+
+1758789074 c:\week4_exercise2\math.h
+
